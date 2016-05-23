@@ -1,0 +1,28 @@
+name: A Core Process
+favicon: null
+layout_spectrum: 0.7136215877253562
+typography_spectrum: 0.5526629285886884
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+  brandStrength: 0.6215227874927223
+  lightness: 0.17560396320186555
+  saturation: 0.20554418372921646
+  rhythmicContrast: 0.8603894533589482
+purpose: []
