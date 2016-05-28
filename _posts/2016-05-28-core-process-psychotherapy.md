@@ -5,14 +5,14 @@ inNav: false
 inLanguage: null
 keywords: []
 description: it acknowledges the power of awareness and presence in relationship
-datePublished: '2016-05-28T22:56:44.644Z'
-dateModified: '2016-05-28T22:56:33.447Z'
+datePublished: '2016-05-28T22:57:18.202Z'
+dateModified: '2016-05-28T22:56:51.967Z'
 title: ''
 author: []
+sourcePath: _posts/2016-05-28-core-process-psychotherapy.md
 authors: []
 publisher: null
 starred: true
-sourcePath: _posts/2016-05-28-core-process-psychotherapy.md
 url: core-process-psychotherapy/index.html
 _type: Article
 
