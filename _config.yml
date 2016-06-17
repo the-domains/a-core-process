@@ -1,6 +1,6 @@
 name: Core Process Psycotherapy
 favicon: null
-layout_spectrum: 0.88094
+layout_spectrum: 0.73976
 typography_spectrum: 0.33203
 title: Core Process Psychotherapy
 cta:
@@ -22,8 +22,8 @@ color:
     - '#93a364'
     - '#c7c7a3'
     - '#d0ff33'
-  brandStrength: 0.6875
-  lightness: 0.75
-  saturation: 0.6875
-  rhythmicContrast: 0.8603894533589482
+  brandStrength: 0.875
+  lightness: 0.8125
+  saturation: 0.8125
+  rhythmicContrast: 0.5
 purpose: []
