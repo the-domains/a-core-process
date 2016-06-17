@@ -5,8 +5,8 @@ inNav: false
 inLanguage: null
 keywords: []
 description: Core Process Psychotherapy is a 'whole person' approach
-datePublished: '2016-06-17T18:06:54.992Z'
-dateModified: '2016-06-17T18:06:31.256Z'
+datePublished: '2016-06-17T18:08:13.294Z'
+dateModified: '2016-06-17T18:07:04.418Z'
 title: ''
 author:
   - name: ''
