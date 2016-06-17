@@ -5,19 +5,19 @@ inNav: true
 inLanguage: null
 keywords: []
 description: Appointments in the city of Edinburgh and the Scottish Borders
-datePublished: '2016-06-17T18:33:57.192Z'
-dateModified: '2016-06-17T18:29:31.458Z'
+datePublished: '2016-06-17T18:34:49.905Z'
+dateModified: '2016-06-17T18:34:45.185Z'
 title: ''
 author: []
+sourcePath: _posts/2016-06-17-enquiries.md
 authors: []
 publisher: null
 starred: false
-sourcePath: _posts/2016-06-17-enquiries.md
 url: enquiries/index.html
 _type: WebPage
 
 ---
-Appointments in the city of Edinburgh and the Scottish Borders
+**Appointments in the city of Edinburgh and the Scottish Borders**
 
 email [mail@acoreprocess.net][0]  
 telephone 01573 225372  
