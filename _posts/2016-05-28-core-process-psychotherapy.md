@@ -4,13 +4,13 @@ hasPage: true
 inNav: false
 inLanguage: null
 keywords: []
-description: >-
-  The Core Process way acknowledges the power of awareness and presence in
-  relationship
-datePublished: '2016-06-13T21:05:14.073Z'
-dateModified: '2016-06-13T21:05:08.639Z'
+description: Core Process Psychotherapy is a 'whole person' approach
+datePublished: '2016-06-17T18:06:54.992Z'
+dateModified: '2016-06-17T18:06:31.256Z'
 title: ''
-author: []
+author:
+  - name: ''
+    url: ''
 sourcePath: _posts/2016-05-28-core-process-psychotherapy.md
 authors: []
 publisher: null
@@ -19,11 +19,11 @@ url: core-process-psychotherapy/index.html
 _type: Article
 
 ---
-Core Process Psychotherapy - a 'whole person' approach
+Core Process Psychotherapy is a 'whole person' approach
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/3e81891b-e71b-4237-99de-684e3de88994.jpg)
 
-The Core Process way acknowledges the power of awareness and presence in relationship
+The Core Process way acknowledges the power of awareness and presence in relationship ...it activates our inherent capacity to heal and transform hurt, anger and aversion into qualities of open heartedness.
 
-...it activates our inherent capacity for clarity, spaciousness and compassion, transforming hurt, anger and aversion into qualities of open heartedness.
+The Core Process Psychotherapist works with your arising process exploring the imprints of the past as they arise in the present. 
 
-The Core Process Psychotherapist works with your arising process exploring the imprints of the past as they arise in your present moment experience.
+Be empowered...overcome self-limiting patterns and reclaim the unlived parts of yourself, they await their full expression.
