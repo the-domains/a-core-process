@@ -5,11 +5,10 @@ inNav: true
 inLanguage: null
 keywords: []
 description: >-
-  Core Process Psychotherapy works in harmony with our inherent capacity to
-  heal.The Core Process Psychotherapist brings attention in a particular way to
-  what is here in the present moment, awaiting recognition.
-datePublished: '2016-06-17T18:02:44.398Z'
-dateModified: '2016-06-17T18:02:36.261Z'
+  Core Process Psychotherapy is a mindfulness-based psycho dynamic approach to
+  psychotherapy.
+datePublished: '2016-06-17T18:09:36.955Z'
+dateModified: '2016-06-17T18:08:58.379Z'
 title: ''
 author: []
 sourcePath: _posts/2016-05-28-about-core-process.md
