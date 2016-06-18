@@ -7,8 +7,8 @@ keywords: []
 description: >-
   Core Process Psychotherapy is a mindfulness-based psycho dynamic approach to
   psychotherapy.
-datePublished: '2016-06-18T13:15:44.040Z'
-dateModified: '2016-06-18T13:15:18.242Z'
+datePublished: '2016-06-18T13:15:57.238Z'
+dateModified: '2016-06-18T13:15:51.754Z'
 title: ''
 author: []
 sourcePath: _posts/2016-05-28-about-core-process.md
