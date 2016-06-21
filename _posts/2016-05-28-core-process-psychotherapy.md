@@ -8,8 +8,8 @@ description: >-
   ...a 'whole person' approach that works with the power of awareness and
   presence in relationship and our inherent capacity to transform emotional pain
   into qualities of strength, clarity and heartfulness
-datePublished: '2016-06-21T13:53:13.403Z'
-dateModified: '2016-06-21T13:53:04.064Z'
+datePublished: '2016-06-21T13:53:52.020Z'
+dateModified: '2016-06-21T13:53:46.195Z'
 title: ''
 author:
   - name: ''
