@@ -4,15 +4,15 @@ hasPage: true
 inNav: true
 inLanguage: null
 keywords: []
-description: 'Psychotherapy is for anyone who feels stuck in their current life situation. '
-datePublished: '2016-06-21T13:39:02.062Z'
-dateModified: '2016-06-21T13:38:48.981Z'
+description: Psychotherapy is for anyone who feels stuck in their current life situation.
+datePublished: '2016-06-21T13:47:41.015Z'
+dateModified: '2016-06-21T13:47:23.911Z'
 title: ''
 author: []
+sourcePath: _posts/2016-06-21-is-psychotherapy-for-me.md
 authors: []
 publisher: null
 starred: false
-sourcePath: _posts/2016-06-21-is-psychotherapy-for-me.md
 url: is-psychotherapy-for-me/index.html
 _type: WebPage
 
@@ -51,7 +51,7 @@ Core Process Psychotherapy works deeply and requires commitment. Both brief and 
 Sessions are for one hour and usually take place weekly at the same time. I offer six sessions followed by a review session. The Review session is a space for you to reflect on how the sessions are going and for me to feedback key considerations in our work together.
 
 **Fee**  
-My current standard fee is £45.00 per session. I may have a concessionary place available, please ask. 
+Current standard fee is £45.00 per session. There may be a concessionary place available, please ask. 
 
 **Practice Location**  
 I practise in Edinburgh and the Scottish Borders.   
