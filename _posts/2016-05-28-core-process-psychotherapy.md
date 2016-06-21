@@ -8,8 +8,8 @@ description: >-
   Core Process Psychotherapy is a 'whole person' approach... it acknowledges the
   power of awareness and presence in relationship and our inherent capacity to
   transform emotional pain into qualities of strength, clarity and heartfulness
-datePublished: '2016-06-20T11:10:11.165Z'
-dateModified: '2016-06-20T11:10:04.775Z'
+datePublished: '2016-06-21T13:01:40.537Z'
+dateModified: '2016-06-21T13:01:26.724Z'
 title: ''
 author:
   - name: ''
