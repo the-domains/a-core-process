@@ -5,8 +5,8 @@ inNav: true
 inLanguage: null
 keywords: []
 description: Psychotherapy is for anyone who feels stuck in their current life situation.
-datePublished: '2016-06-24T19:14:22.165Z'
-dateModified: '2016-06-24T19:14:16.275Z'
+datePublished: '2016-06-24T19:15:00.546Z'
+dateModified: '2016-06-24T19:14:55.319Z'
 title: ''
 author: []
 sourcePath: _posts/2016-06-21-is-psychotherapy-for-me.md
@@ -23,7 +23,9 @@ It is an opportunity to speak with a professional practitioner in complete confi
 
 Core Process Psychotherapists offer a non-judgemental, safe, compassionate holding space for whatever you need to bring.
 
-**Some of the issues explored in psychotherapy**...Anxiety and recurring fears  
+**Some of the issues explored in psychotherapy**
+
+...Anxiety and recurring fears  
 ...Low mood, anger and fear of emotions  
 ...Self-limiting patterns that keep repeating  
 ...Knowing you could be more and yet feel stuck  
