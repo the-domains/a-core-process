@@ -5,8 +5,8 @@ inNav: true
 inLanguage: null
 keywords: []
 description: Psychotherapy is for anyone who feels stuck in their current life situation.
-datePublished: '2016-06-24T19:15:00.546Z'
-dateModified: '2016-06-24T19:14:55.319Z'
+datePublished: '2016-06-24T19:15:53.210Z'
+dateModified: '2016-06-24T19:15:45.892Z'
 title: ''
 author: []
 sourcePath: _posts/2016-06-21-is-psychotherapy-for-me.md
@@ -63,7 +63,5 @@ My practice is located in the Tara Trust building at 12 Marchhall Crescent, Edin
 Send a message to [mail@acoreprocess.net][0] to arrange a time and day to talk on the phone. 
 
 This gives us both a chance to ask questions and see if Core Process psychotherapy is right for you at this time.There is no obligation on either side and no charge for initial contact.
-
-+�?
 
 [0]: mailto:mail@acoreprocess.net
