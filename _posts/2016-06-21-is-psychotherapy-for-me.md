@@ -5,8 +5,8 @@ inNav: true
 inLanguage: null
 keywords: []
 description: Psychotherapy is for anyone who feels stuck in their current life situation.
-datePublished: '2016-06-21T13:47:41.015Z'
-dateModified: '2016-06-21T13:47:23.911Z'
+datePublished: '2016-06-24T19:14:22.165Z'
+dateModified: '2016-06-24T19:14:16.275Z'
 title: ''
 author: []
 sourcePath: _posts/2016-06-21-is-psychotherapy-for-me.md
@@ -21,10 +21,9 @@ Psychotherapy is for anyone who feels stuck in their current life situation.
 
 It is an opportunity to speak with a professional practitioner in complete confidence; to voice inner feelings, share and release fears and concerns.
 
-Core Process Psychotherapists offer a non-judgemental, safe, compassionate holding space for whatever you need to bring. .
+Core Process Psychotherapists offer a non-judgemental, safe, compassionate holding space for whatever you need to bring.
 
-**Some of the issues explored in psychotherapy**  
-...Anxiety and recurring fears  
+**Some of the issues explored in psychotherapy**...Anxiety and recurring fears  
 ...Low mood, anger and fear of emotions  
 ...Self-limiting patterns that keep repeating  
 ...Knowing you could be more and yet feel stuck  
@@ -33,7 +32,8 @@ Core Process Psychotherapists offer a non-judgemental, safe, compassionate holdi
 ...Overcoming traumatic life events  
 ...Discovering ways to reduce and manage stress  
 ...Finding and expressing inner creativity  
-...At a crossroads or turning point? Explore options.  
+...At a crossroads or turning point? Explore options.
+
 Whatever is troubling you, and if it is causing ongoing anxiety and sleeplessness, please reach out to someone who you feel you can trust. A trained independent professional person, may be your best option. Contact the Samaritans on
 
 **What happens in a session?**  
