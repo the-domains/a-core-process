@@ -7,8 +7,8 @@ keywords: []
 description: >-
   This unique approach explores and inquires into the imprints of the past as
   they arise in the present
-datePublished: '2016-06-25T11:58:02.114Z'
-dateModified: '2016-06-25T11:57:30.791Z'
+datePublished: '2016-06-25T12:15:13.266Z'
+dateModified: '2016-06-25T12:14:51.954Z'
 title: ''
 author: []
 sourcePath: >-
