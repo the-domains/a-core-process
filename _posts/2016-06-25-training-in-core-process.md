@@ -4,15 +4,15 @@ hasPage: true
 inNav: true
 inLanguage: null
 keywords: []
-description: Courses and Training in Core Process Psychotherapy
-datePublished: '2016-06-25T12:37:09.607Z'
-dateModified: '2016-06-25T12:35:50.985Z'
+description: ' Courses and Training in Core Process Psychotherapy'
+datePublished: '2016-06-25T12:40:51.693Z'
+dateModified: '2016-06-25T12:40:40.503Z'
 title: ''
 author: []
+sourcePath: _posts/2016-06-25-training-in-core-process.md
 authors: []
 publisher: null
 starred: false
-sourcePath: _posts/2016-06-25-training-in-core-process.md
 url: training-in-core-process/index.html
 _type: WebPage
 
@@ -27,3 +27,4 @@ Core Process Psychotherapists are required to have a regular and ongoing persona
 
 The Core Process Psychotherapist does not teach mindfulness practices to their clients but rather clients are oriented to mindfulness through dialogue and the Core Process Psychotherapist's particular skilful approach to enquiry.  
 Training in Core Process Psychotherapy is offered at the Karuna Institute in Devon and foundations courses are offered in London, the South West and Scotland. See www.karuna-institute.co.uk
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/53dd6780-44cf-49df-bfec-f5c4fdf36614.jpg)
