@@ -5,8 +5,8 @@ inNav: true
 inLanguage: null
 keywords: []
 description: Psychotherapy is for anyone who feels stuck in their current life situation.
-datePublished: '2016-06-25T12:09:12.350Z'
-dateModified: '2016-06-25T12:08:17.229Z'
+datePublished: '2016-06-25T12:10:13.676Z'
+dateModified: '2016-06-25T12:09:46.290Z'
 title: ''
 author: []
 sourcePath: _posts/2016-06-21-is-psychotherapy-for-me.md
