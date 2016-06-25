@@ -5,11 +5,11 @@ inNav: false
 inLanguage: null
 keywords: []
 description: >-
-  ... works with awareness and presence in relationship  ...reclaim the unlived
-  parts of yourself .. transform your emotional pain into strength, clarity and
-  heartfulnes 
-datePublished: '2016-06-22T14:16:20.692Z'
-dateModified: '2016-06-22T14:16:05.436Z'
+  ...a whole person approach ...works with awareness and presence in
+  relationship  ...empowers you to reclaim the unlived parts of yourself ..
+  learn how to work with and transform emotional pain 
+datePublished: '2016-06-25T11:55:26.966Z'
+dateModified: '2016-06-25T11:55:23.007Z'
 title: ''
 author:
   - name: ''
@@ -22,7 +22,7 @@ url: core-process-psychotherapy/index.html
 _type: Article
 
 ---
-... works with awareness and presence in relationship   
-...reclaim the unlived parts of yourself  
-.. transform your emotional pain into strength, clarity and heartfulnes
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/2114debb-58c6-42a7-846f-d52e22efd098.jpg)
+...a whole person approach  
+...works with awareness and presence in relationship   
+...empowers you to reclaim the unlived parts of yourself  
+.. learn how to work with and transform emotional pain ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/2114debb-58c6-42a7-846f-d52e22efd098.jpg)
