@@ -7,8 +7,8 @@ keywords: []
 description: >-
   Core Process Psychotherapy is a mindfulness-based psycho dynamic approach to
   psychotherapy.
-datePublished: '2016-06-25T11:57:39.825Z'
-dateModified: '2016-06-25T11:56:10.233Z'
+datePublished: '2016-06-25T12:17:06.118Z'
+dateModified: '2016-06-25T12:16:57.901Z'
 title: ''
 author: []
 sourcePath: _posts/2016-05-28-about-core-process.md
@@ -31,6 +31,6 @@ The Core Process approach recognises our inherent capacity to heal and works in 
 
 A non invasive approach, the Core Process psychotherapist works at depth to help uncover what lies beneath current problems.
 
-Difficulties are not seen as necessarily negative, unwanted or insurmountable - instead these edges of resistance are welcomed as opportunities for realisation and areas for growth. 
+Difficulties are not seen as necessarily negative, unwanted or insurmountable - instead these edges of resistance are welcomed as opportunities for realisation and areas for growth.
 
 Emotional pain conceals the unlived parts of ourselves that await recognition and expression.
