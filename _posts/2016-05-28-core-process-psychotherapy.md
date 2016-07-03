@@ -8,8 +8,8 @@ description: >-
   ...a whole person approach ...works with awareness and presence in
   relationship  ...empowers you to reclaim the unlived parts of yourself ..
   learn how to work with and transform emotional pain 
-datePublished: '2016-06-25T11:55:26.966Z'
-dateModified: '2016-06-25T11:55:23.007Z'
+datePublished: '2016-07-03T14:05:16.688Z'
+dateModified: '2016-07-03T14:05:05.303Z'
 title: ''
 author:
   - name: ''
