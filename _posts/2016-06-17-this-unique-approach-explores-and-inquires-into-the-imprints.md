@@ -5,11 +5,11 @@ inNav: false
 inLanguage: null
 keywords: []
 description: >-
-  ...explore the imprints of the past as they arise in the present ...uncover
-  the self-limiting patterns which keep repeating ...reclaim the unlived parts
-  of yourself awaiting their full expression
-datePublished: '2016-07-03T14:03:11.559Z'
-dateModified: '2016-07-03T14:03:06.515Z'
+  ...explore the imprints of the past as they arise in the present...uncover the
+  self-limiting patterns which keep repeating...reclaim the unlived parts of
+  yourself awaiting their full expression
+datePublished: '2016-07-03T14:03:03.310Z'
+dateModified: '2016-07-03T14:02:31.778Z'
 title: ''
 author: []
 sourcePath: >-
