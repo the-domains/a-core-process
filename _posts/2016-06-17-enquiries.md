@@ -5,8 +5,8 @@ inNav: true
 inLanguage: null
 keywords: []
 description: Appointments in the city of Edinburgh and the Scottish Borders
-datePublished: '2016-06-17T18:34:49.905Z'
-dateModified: '2016-06-17T18:34:45.185Z'
+datePublished: '2016-07-03T14:04:21.334Z'
+dateModified: '2016-07-03T14:03:58.724Z'
 title: ''
 author: []
 sourcePath: _posts/2016-06-17-enquiries.md
@@ -39,5 +39,6 @@ M.A., Dip Supv. Dip. Mind
 UKCP Registered Psychotherapist  
 Member of the Association of Core Process Psychotherapists (ACPP)  
 Member of the Mindfulness Association (MA)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/4c27c13f-cd03-4251-8628-1732e8a17985.jpg)
 
 [0]: mailto:mail@acoreprocess.net?subject=Phone%20call%20%2FMeeting%20enquiry
