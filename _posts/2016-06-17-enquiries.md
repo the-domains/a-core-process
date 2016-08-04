@@ -1,17 +1,18 @@
 ---
-inFeed: false
-hasPage: true
-inNav: true
-inLanguage: null
-keywords: []
-description: Appointments in the city of Edinburgh and the Scottish Borders
-datePublished: '2016-07-03T14:04:21.334Z'
-dateModified: '2016-07-03T14:03:58.724Z'
-title: ''
-author: []
+datePublished: '2016-08-04T13:20:21.366Z'
 sourcePath: _posts/2016-06-17-enquiries.md
+inFeed: false
 authors: []
-publisher: null
+hasPage: true
+keywords: []
+author: []
+via: {}
+dateModified: '2016-08-04T13:20:20.429Z'
+title: email mail@acoreprocess.net telephone 01573 225372 mobile 07796 530 119
+publisher: {}
+description: Appointments in the city of Edinburgh and the Scottish Borders
+inLanguage: null
+inNav: true
 starred: false
 url: enquiries/index.html
 _type: WebPage
@@ -19,7 +20,7 @@ _type: WebPage
 ---
 **Appointments in the city of Edinburgh and the Scottish Borders**
 
-email [mail@acoreprocess.net][0]  
+### email [mail@acoreprocess.net][0]  
 telephone 01573 225372  
 mobile 07796 530 119
 
@@ -28,9 +29,9 @@ mobile 07796 530 119
 ...Mindfulness Courses  
 ...Mindfulness Teacher Mentor
 
-Patricia completed the MA in Mindfulness-based Psychotherapy with the Karuna Institute in 2000 and is UKCP registered Psychotherapist. She has been in practice since 1998 and worked in the NHS as a Primary Care Counsellor for a time before becoming an independent practitioner. 
+Patricia completed the MA in Mindfulness-based Psychotherapy with the Karuna Institute in 2000 and is UKCP registered Psychotherapist. She has been in practice since 1998 and worked in the NHS as a Primary Care Counsellor for a time before becoming an independent practitioner.
 
-She expanded her practice to include facilitating Mindfulness Courses for groups, training with Mindfulness Scotland, the Mindfulness Association, University of Aberdeen and Bangor University in Wales. 
+She expanded her practice to include facilitating Mindfulness Courses for groups, training with Mindfulness Scotland, the Mindfulness Association, University of Aberdeen and Bangor University in Wales.
 
 Her work as a psychotherapist and Mindfulness Facilitator is supported by a life-long interest and practice of mindfulness meditation.
 
