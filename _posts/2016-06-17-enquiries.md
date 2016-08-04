@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-08-04T19:53:43.289Z'
+datePublished: '2016-08-04T19:54:55.090Z'
 sourcePath: _posts/2016-06-17-enquiries.md
 inFeed: false
 authors: []
@@ -7,8 +7,8 @@ hasPage: true
 keywords: []
 author: []
 via: {}
-dateModified: '2016-08-04T19:53:42.642Z'
-title: email mail@acoreprocess.net telephone 01573 225372 mobile 07796 530 119
+dateModified: '2016-08-04T19:54:54.462Z'
+title: ''
 publisher: {}
 description: Appointments
 inLanguage: null
@@ -19,13 +19,14 @@ _type: WebPage
 
 ---
 **Appointments**
-
-Appointments in the city of Edinburgh and the Scottish Borders
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/4c27c13f-cd03-4251-8628-1732e8a17985.jpg)
 
 ...Brief or depth one to one psychotherapy  
 ...Clinical Supervision   
 ...Mindfulness Courses  
 ...Mindfulness Teacher Mentor
+
+Appointments in the city of Edinburgh and the Scottish Borders
 
 ### email [mail@acoreprocess.net][0]  
 telephone 01573 225372  
@@ -42,6 +43,5 @@ M.A., Dip Supv. Dip. Mind
 UKCP Registered Psychotherapist  
 Member of the Association of Core Process Psychotherapists (ACPP)  
 Member of the Mindfulness Association (MA)
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/4c27c13f-cd03-4251-8628-1732e8a17985.jpg)
 
 [0]: mailto:mail@acoreprocess.net?subject=Phone%20call%20%2FMeeting%20enquiry
