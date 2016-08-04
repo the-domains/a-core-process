@@ -1,21 +1,22 @@
 ---
-inFeed: true
-hasPage: true
-inNav: false
-inLanguage: null
-keywords: []
-description: >-
-  ...explore the imprints of the past as they arise in the present...uncover the
-  self-limiting patterns which keep repeating...reclaim the unlived parts of
-  yourself awaiting their full expression
-datePublished: '2016-07-03T14:03:03.310Z'
-dateModified: '2016-07-03T14:02:31.778Z'
-title: ''
-author: []
+datePublished: '2016-08-04T13:21:37.598Z'
 sourcePath: >-
   _posts/2016-06-17-this-unique-approach-explores-and-inquires-into-the-imprints.md
+inFeed: true
 authors: []
-publisher: null
+hasPage: true
+keywords: []
+author: []
+dateModified: '2016-08-04T13:21:37.016Z'
+title: >-
+  ...explore the imprints of the past as they arise in the present ...uncover
+  the self-limiting patterns which keep repeating ...reclaim the unlived parts
+  of yourself awaiting their full expression
+publisher: {}
+description: ''
+inLanguage: null
+inNav: false
+via: {}
 starred: false
 url: this-unique-approach-explores-and-inquires-into-the-imprints/index.html
 _type: Article
@@ -23,6 +24,6 @@ _type: Article
 ---
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/aa17487e-ec65-4fa2-9573-85910012d588.jpg)
 
-...explore the imprints of the past as they arise in the present  
+### ...explore the imprints of the past as they arise in the present  
 ...uncover the self-limiting patterns which keep repeating  
 ...reclaim the unlived parts of yourself awaiting their full expression
