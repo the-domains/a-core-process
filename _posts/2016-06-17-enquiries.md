@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-08-04T13:20:21.366Z'
+datePublished: '2016-08-04T19:53:43.289Z'
 sourcePath: _posts/2016-06-17-enquiries.md
 inFeed: false
 authors: []
@@ -7,10 +7,10 @@ hasPage: true
 keywords: []
 author: []
 via: {}
-dateModified: '2016-08-04T13:20:20.429Z'
+dateModified: '2016-08-04T19:53:42.642Z'
 title: email mail@acoreprocess.net telephone 01573 225372 mobile 07796 530 119
 publisher: {}
-description: Appointments in the city of Edinburgh and the Scottish Borders
+description: Appointments
 inLanguage: null
 inNav: true
 starred: false
@@ -18,16 +18,18 @@ url: enquiries/index.html
 _type: WebPage
 
 ---
-**Appointments in the city of Edinburgh and the Scottish Borders**
+**Appointments**
 
-### email [mail@acoreprocess.net][0]  
-telephone 01573 225372  
-mobile 07796 530 119
+Appointments in the city of Edinburgh and the Scottish Borders
 
 ...Brief or depth one to one psychotherapy  
 ...Clinical Supervision   
 ...Mindfulness Courses  
 ...Mindfulness Teacher Mentor
+
+### email [mail@acoreprocess.net][0]  
+telephone 01573 225372  
+mobile 07796 530 119
 
 Patricia completed the MA in Mindfulness-based Psychotherapy with the Karuna Institute in 2000 and is UKCP registered Psychotherapist. She has been in practice since 1998 and worked in the NHS as a Primary Care Counsellor for a time before becoming an independent practitioner.
 
