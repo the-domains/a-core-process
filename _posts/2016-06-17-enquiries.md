@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-08-04T19:54:55.090Z'
+datePublished: '2016-08-04T19:55:27.170Z'
 sourcePath: _posts/2016-06-17-enquiries.md
 inFeed: false
 authors: []
@@ -7,10 +7,10 @@ hasPage: true
 keywords: []
 author: []
 via: {}
-dateModified: '2016-08-04T19:54:54.462Z'
-title: ''
+dateModified: '2016-08-04T19:55:26.410Z'
+title: Appointments
 publisher: {}
-description: Appointments
+description: ''
 inLanguage: null
 inNav: true
 starred: false
@@ -18,7 +18,7 @@ url: enquiries/index.html
 _type: WebPage
 
 ---
-**Appointments**
+## **Appointments**
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/4c27c13f-cd03-4251-8628-1732e8a17985.jpg)
 
 ...Brief or depth one to one psychotherapy  
