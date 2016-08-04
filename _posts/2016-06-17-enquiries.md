@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-08-04T19:55:27.170Z'
+datePublished: '2016-08-04T20:07:52.071Z'
 sourcePath: _posts/2016-06-17-enquiries.md
 inFeed: false
 authors: []
@@ -7,10 +7,12 @@ hasPage: true
 keywords: []
 author: []
 via: {}
-dateModified: '2016-08-04T19:55:26.410Z'
-title: Appointments
+dateModified: '2016-08-04T20:07:51.300Z'
+title: ''
 publisher: {}
-description: ''
+description: >-
+  ...Brief or depth one to one psychotherapy ...Clinical Supervision 
+  ...Mindfulness Courses ...Mindfulness Teacher Mentor
 inLanguage: null
 inNav: true
 starred: false
@@ -18,7 +20,6 @@ url: enquiries/index.html
 _type: WebPage
 
 ---
-## **Appointments**
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/4c27c13f-cd03-4251-8628-1732e8a17985.jpg)
 
 ...Brief or depth one to one psychotherapy  
@@ -28,7 +29,7 @@ _type: WebPage
 
 Appointments in the city of Edinburgh and the Scottish Borders
 
-### email [mail@acoreprocess.net][0]  
+email [mail@acoreprocess.net][0]  
 telephone 01573 225372  
 mobile 07796 530 119
 
