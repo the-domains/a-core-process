@@ -1,15 +1,15 @@
 ---
+datePublished: '2016-08-05T09:45:09.222Z'
+sourcePath: _posts/2016-08-04-appointments.md
+author: []
+via: {}
+dateModified: '2016-08-05T09:45:08.357Z'
+title: Appointments
+publisher: {}
 description: >-
   ...Brief or depth one to one psychotherapy ...Clinical Supervision 
   ...Mindfulness Courses ...Mindfulness Mentor
-dateModified: '2016-08-04T21:15:15.810Z'
-datePublished: '2016-08-04T21:15:36.550Z'
-title: Appointments
-author: []
-publisher: {}
-via: {}
 starred: false
-sourcePath: _posts/2016-08-04-appointments.md
 inFeed: true
 hasPage: false
 inNav: false
@@ -20,10 +20,10 @@ _type: MediaObject
 
 # Appointments
 
-**...Brief or depth one to one psychotherapy  
-...Clinical Supervision   
-...Mindfulness Courses  
-...Mindfulness Mentor**
+**...Brief or depth one to one psychotherapy**  
+**...Clinical Supervision **  
+**...Mindfulness Courses**  
+**...Mindfulness Mentor**
 
 **Appointments in the city of Edinburgh and the Scottish Borders**
 
@@ -33,14 +33,14 @@ _type: MediaObject
 
 **Her work as a psychotherapist and Mindfulness Facilitator is supported by a life-long interest and practice of mindfulness meditation.**
 
-**[mail@acoreprocess.net][0]  
-telephone 01573 225372  
-mobile 07796 530 119**
+**[mail@acoreprocess.net][0]**  
+**telephone 01573 225372**  
+**mobile 07796 530 119**
 
-**Patricia Price  
-M.A., Dip Supv. Dip. Mind  
-UKCP Registered Psychotherapist  
-Member of the Association of Core Process Psychotherapists (ACPP)  
-Member of the Mindfulness Association (MA)**
+**Patricia Price**  
+**M.A., Dip Supv. Dip. Mind**  
+**UKCP Registered Psychotherapist**  
+**Member of the Association of Core Process Psychotherapists (ACPP)**  
+**Member of the Mindfulness Association (MA)**
 
 [0]: http://mail@acoreprocess.net/ "Email"
