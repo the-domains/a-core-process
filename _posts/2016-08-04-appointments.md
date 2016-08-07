@@ -1,19 +1,18 @@
 ---
-datePublished: '2016-08-07T20:33:12.967Z'
+datePublished: '2016-08-07T20:46:21.069Z'
 sourcePath: _posts/2016-08-04-appointments.md
+hasPage: true
 author: []
 via: {}
-dateModified: '2016-08-07T20:33:12.213Z'
+dateModified: '2016-08-07T20:46:20.238Z'
 title: Appointments
 publisher: {}
 description: >-
   ...Brief or depth one to one psychotherapy ...Clinical Supervision 
   ...Mindfulness Courses ...Mindfulness Mentor
 starred: false
-inFeed: true
-hasPage: false
-inNav: false
-_type: MediaObject
+url: appointments/index.html
+_type: Blurb
 
 ---
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/12727b8c-251b-4ee1-bac3-33acf75e60e2.jpg)
