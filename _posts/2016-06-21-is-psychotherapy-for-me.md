@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-08-07T22:08:39.703Z'
+datePublished: '2016-08-07T22:17:24.051Z'
 sourcePath: _posts/2016-06-21-is-psychotherapy-for-me.md
 inFeed: false
 authors: []
@@ -7,7 +7,7 @@ hasPage: true
 keywords: []
 author: []
 via: {}
-dateModified: '2016-08-07T22:08:26.608Z'
+dateModified: '2016-08-07T22:17:23.489Z'
 title: ''
 publisher: {}
 description: Psychotherapy is for anyone who feels stuck in their current life situation.
