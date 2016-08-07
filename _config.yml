@@ -34,6 +34,9 @@ navigation:
   - name: About Core Process
     id: 26ac9968-2783-4b91-873c-03ec3f3bec3a
     type: content
+  - name: Training
+    id: 785dffcb-9de9-446e-99df-1f1e0cc8cbde
+    type: content
 favicon: null
 title: Core Process Psychotherapy
 description: a whole person approach
