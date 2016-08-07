@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-08-07T20:24:32.001Z'
+datePublished: '2016-08-07T20:28:08.969Z'
 sourcePath: >-
   _posts/2016-06-17-this-unique-approach-explores-and-inquires-into-the-imprints.md
 inFeed: true
@@ -8,14 +8,14 @@ hasPage: true
 keywords: []
 author: []
 via: {}
-dateModified: '2016-08-07T20:24:30.666Z'
+dateModified: '2016-08-07T20:28:08.832Z'
 title: ''
 publisher: {}
 description: ''
 inLanguage: null
 inNav: false
 starred: false
-url: this-unique-approach-explores-and-inquires-into-the-imprints/index.html
+url: explore-the-imprints-of-the-past-as-they-arise-in-the-pre/index.html
 _type: Article
 
 ---
