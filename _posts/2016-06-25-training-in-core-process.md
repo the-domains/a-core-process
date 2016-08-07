@@ -1,31 +1,32 @@
 ---
-inFeed: false
-hasPage: true
-inNav: true
-inLanguage: null
-keywords: []
-description: Courses and Training in Core Process Psychotherapy
-datePublished: '2016-07-02T10:44:16.839Z'
-dateModified: '2016-07-02T10:44:07.408Z'
-title: ''
-author: []
+datePublished: '2016-08-07T21:25:11.661Z'
 sourcePath: _posts/2016-06-25-training-in-core-process.md
+inFeed: false
 authors: []
-publisher: null
+hasPage: true
+keywords: []
+author: []
+via: {}
+dateModified: '2016-08-07T21:25:10.783Z'
+title: ''
+publisher: {}
+description: Training in Core Process Psychotherapy
+inLanguage: null
+inNav: true
 starred: false
 url: training-in-core-process/index.html
 _type: WebPage
 
 ---
-**Courses and Training in Core Process Psychotherapy**
+**Training in Core Process Psychotherapy**
 
-Core Process Psychotherapy, was founded by Maura Sills and established in 1982 at the Karuna Institute in Devon. 
+Core Process Psychotherapy, was founded by Maura Sills and a training centre was established in 1982 at the Karuna Institute in Devon.
 
 It is one of the original training programs to draw on awareness and the cultivation of presence and the mindfulness-based approaches from Buddhist psychology.
 
-The ripening and embodiment of these approaches is encouraged within the Core Process Psychotherapist along with a sound understanding of western personality theory, psychodynamics and psychotherapy skills 
+The ripening and embodiment of these approaches is encouraged within the Core Process Psychotherapist along with a sound understanding of western personality theory, psychodynamics and psychotherapy skills
 
-Core Process Psychotherapists are required to have a regular and ongoing meditation and contemplative practice. 
+Core Process Psychotherapists are required to have a regular and ongoing meditation and contemplative practice.
 
 The Core Process Psychotherapist does not teach awareness practices to their clients but rather clients are invited to a wider view and awareness of choice and possibilities through dialogue and enquiry.
 
