@@ -1,15 +1,15 @@
 ---
-datePublished: '2016-08-07T20:46:21.069Z'
+datePublished: '2016-08-07T20:48:25.556Z'
 sourcePath: _posts/2016-08-04-appointments.md
 hasPage: true
 author: []
 via: {}
-dateModified: '2016-08-07T20:46:20.238Z'
+dateModified: '2016-08-07T20:48:25.429Z'
 title: Appointments
 publisher: {}
 description: >-
-  ...Brief or depth one to one psychotherapy ...Clinical Supervision 
-  ...Mindfulness Courses ...Mindfulness Mentor
+  ...Brief or depth one to one psychotherapy...Clinical Supervision
+  ...Mindfulness Courses...Mindfulness Mentor
 starred: false
 url: appointments/index.html
 _type: Blurb
