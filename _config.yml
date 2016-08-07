@@ -28,6 +28,9 @@ navigation:
   - name: Appointments
     id: 3ada9445-7f84-4f88-a441-fd293120bc09
     type: content
+  - name: Who is psychotherapy for?
+    id: 1dee3722-5e6c-4f70-8b74-76266d2c62d4
+    type: content
 favicon: null
 title: Core Process Psychotherapy
 description: a whole person approach
