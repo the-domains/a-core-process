@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-08-07T21:32:02.590Z'
+datePublished: '2016-08-07T22:19:40.863Z'
 sourcePath: _posts/2016-06-25-training-in-core-process.md
 inFeed: false
 authors: []
@@ -7,7 +7,7 @@ hasPage: true
 keywords: []
 author: []
 via: {}
-dateModified: '2016-08-07T21:32:01.961Z'
+dateModified: '2016-08-07T22:19:40.426Z'
 title: Training in Core Process Psychotherapy
 publisher: {}
 description: >-
