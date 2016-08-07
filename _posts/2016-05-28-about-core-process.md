@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-08-07T22:05:34.735Z'
+datePublished: '2016-08-07T22:16:41.376Z'
 sourcePath: _posts/2016-05-28-about-core-process.md
 inFeed: false
 authors: []
@@ -7,7 +7,7 @@ hasPage: true
 keywords: []
 author: []
 via: {}
-dateModified: '2016-08-07T22:05:33.590Z'
+dateModified: '2016-08-07T22:16:40.073Z'
 title: ''
 publisher: {}
 description: >-
@@ -35,4 +35,4 @@ The Core Process Psychotherapist cultivates a relationship founded on compassion
 Difficulties are not seen as necessarily negative, unwanted or insurmountable - instead these edges of resistance are welcomed as opportunities for realisation and areas for growth.
 
 Our psychological and emotional pain carry the unlived parts of ourselves that await recognition and expression of our full potential.
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/50228325-7cc7-417f-b214-ccd1bbb8c5ef.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/cf9acf04-4ced-440d-8eba-97e5c980c4af.jpg)
