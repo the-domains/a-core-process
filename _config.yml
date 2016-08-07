@@ -1,15 +1,15 @@
-typography_spectrum: 0.9598050524946302
+typography_spectrum: 0.6977203043643385
 color:
   brandColors:
-    - '#0134A1'
-    - '#015BCD'
-    - '#9AE8FE'
-    - '#4ABDFE'
-    - '#E8FDFF'
-  brandStrength: 0.22948087612167
-  lightness: 0.7330815193708986
-  saturation: 0.4595303505193442
-  rhythmicContrast: 0.31902813585475087
+    - '#16193B'
+    - '#35478C'
+    - '#4E7AC7'
+    - '#7FB2F0'
+    - '#ADD5F7'
+  brandStrength: 0.6299267953727394
+  lightness: 0.3490008593071252
+  saturation: 0.6256934117991477
+  rhythmicContrast: 0.2262335375417024
 opengraph:
   image: null
   type: null
@@ -27,6 +27,9 @@ cta:
 navigation:
   - name: Appointments
     id: 3ada9445-7f84-4f88-a441-fd293120bc09
+    type: content
+  - name: Jonatan Seagull
+    id: 1dee3722-5e6c-4f70-8b74-76266d2c62d4
     type: content
 favicon: null
 title: Core Process Psychotherapy
