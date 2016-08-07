@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-08-07T21:29:12.289Z'
+datePublished: '2016-08-07T21:29:37.546Z'
 sourcePath: _posts/2016-06-21-is-psychotherapy-for-me.md
 inFeed: false
 authors: []
@@ -7,7 +7,7 @@ hasPage: true
 keywords: []
 author: []
 via: {}
-dateModified: '2016-08-07T21:29:11.460Z'
+dateModified: '2016-08-07T21:29:36.805Z'
 title: Jonatan Seagull
 publisher: {}
 description: Psychotherapy is for anyone who feels stuck in their current life situation.
