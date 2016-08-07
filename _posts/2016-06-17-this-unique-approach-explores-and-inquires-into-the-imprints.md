@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-08-05T09:40:50.591Z'
+datePublished: '2016-08-07T20:24:32.001Z'
 sourcePath: >-
   _posts/2016-06-17-this-unique-approach-explores-and-inquires-into-the-imprints.md
 inFeed: true
@@ -8,7 +8,7 @@ hasPage: true
 keywords: []
 author: []
 via: {}
-dateModified: '2016-08-05T09:40:49.658Z'
+dateModified: '2016-08-07T20:24:30.666Z'
 title: ''
 publisher: {}
 description: ''
