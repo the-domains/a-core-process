@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-08-07T21:25:11.661Z'
+datePublished: '2016-08-07T21:32:02.590Z'
 sourcePath: _posts/2016-06-25-training-in-core-process.md
 inFeed: false
 authors: []
@@ -7,10 +7,12 @@ hasPage: true
 keywords: []
 author: []
 via: {}
-dateModified: '2016-08-07T21:25:10.783Z'
-title: ''
+dateModified: '2016-08-07T21:32:01.961Z'
+title: Training in Core Process Psychotherapy
 publisher: {}
-description: Training in Core Process Psychotherapy
+description: >-
+  Core Process Psychotherapy, was founded by Maura Sills and a training centre
+  was established in 1982 at the Karuna Institute in Devon.
 inLanguage: null
 inNav: true
 starred: false
@@ -18,7 +20,7 @@ url: training-in-core-process/index.html
 _type: WebPage
 
 ---
-**Training in Core Process Psychotherapy**
+### **Training in Core Process Psychotherapy**
 
 Core Process Psychotherapy, was founded by Maura Sills and a training centre was established in 1982 at the Karuna Institute in Devon.
 
