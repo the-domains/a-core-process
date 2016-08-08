@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[Core Process Psychotherapy]]></title>
         <description><![CDATA[Core Process Psychotherapy]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>http://www.acoreprocess.net/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 08 Aug 2016 19:40:17 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Mon, 08 Aug 2016 19:42:41 GMT</lastBuildDate>
+        <atom:link href="http://www.acoreprocess.net/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Training in Core Process Psychotherapy]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/72fa2c2c-c2f4-4ce9-b7c3-680a90889676.jpg" alt="" title="" />]]></description>
-            <link>undefinedtraining-in-core-process-psychotherapy/index.html</link>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/72fa2c2c-c2f4-4ce9-b7c3-680a90889676.jpg">]]></description>
+            <link>http://www.acoreprocess.net/training-in-core-process-psychotherapy/index.html</link>
             <guid isPermaLink="false">8df314b3-ada0-48d8-9096-89b5bdb5fad6</guid>
-            <pubDate>Mon, 08 Aug 2016 19:40:15 GMT</pubDate>
+            <pubDate>Mon, 08 Aug 2016 19:42:40 GMT</pubDate>
         </item>
     </channel>
 </rss>
