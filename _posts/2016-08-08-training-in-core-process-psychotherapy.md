@@ -1,29 +1,25 @@
 ---
 inFeed: true
-hasPage: false
+hasPage: true
 inNav: false
-isBasedOnUrl: ''
 inLanguage: null
 keywords: []
 description: >-
   Core Process Psychotherapy, was founded by Maura Sills and a training centre
   was established in 1982 at the Karuna Institute in Devon.
-datePublished: '2016-08-08T19:38:12.921Z'
-dateModified: '2016-08-08T19:37:59.353Z'
+datePublished: '2016-08-08T19:40:15.713Z'
+dateModified: '2016-08-08T19:40:15.161Z'
 title: ''
 author:
   - name: ''
     url: ''
 via: {}
 authors: []
-publisher:
-  name: ''
-  domain: null
-  url: ''
-  favicon: null
-starred: false
+publisher: {}
 sourcePath: _posts/2016-08-08-training-in-core-process-psychotherapy.md
-_type: Blurb
+starred: false
+url: training-in-core-process-psychotherapy/index.html
+_type: Article
 
 ---
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/72fa2c2c-c2f4-4ce9-b7c3-680a90889676.jpg)
