@@ -1,7 +1,7 @@
 ---
-datePublished: '2016-08-08T19:42:40.631Z'
+datePublished: '2016-08-08T19:54:57.425Z'
 sourcePath: _posts/2016-08-08-training-in-core-process-psychotherapy.md
-inFeed: true
+inFeed: false
 authors: []
 hasPage: true
 keywords: []
@@ -9,7 +9,7 @@ author:
   - name: ''
     url: ''
 via: {}
-dateModified: '2016-08-08T19:42:39.746Z'
+dateModified: '2016-08-08T19:54:55.220Z'
 title: ''
 publisher: {}
 description: >-
@@ -19,7 +19,7 @@ inLanguage: null
 inNav: false
 starred: false
 url: training-in-core-process-psychotherapy/index.html
-_type: Article
+_type: Blurb
 
 ---
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/72fa2c2c-c2f4-4ce9-b7c3-680a90889676.jpg)
