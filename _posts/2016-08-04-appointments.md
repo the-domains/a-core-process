@@ -1,10 +1,10 @@
 ---
-datePublished: '2016-08-08T22:36:48.696Z'
+datePublished: '2016-08-08T22:37:45.481Z'
 sourcePath: _posts/2016-08-04-appointments.md
 hasPage: true
 author: []
 via: {}
-dateModified: '2016-08-08T22:36:47.940Z'
+dateModified: '2016-08-08T22:37:44.914Z'
 title: Appointments
 publisher: {}
 description: >-
