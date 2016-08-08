@@ -25,11 +25,11 @@ cta:
   bucket: null
   version: null
 navigation:
-  - name: Training
-    id: 8df314b3-ada0-48d8-9096-89b5bdb5fad6
-    type: content
   - name: Appointments
     id: 3ada9445-7f84-4f88-a441-fd293120bc09
+    type: content
+  - name: Training
+    id: 8df314b3-ada0-48d8-9096-89b5bdb5fad6
     type: content
 favicon: null
 title: Core Process Psychotherapy
