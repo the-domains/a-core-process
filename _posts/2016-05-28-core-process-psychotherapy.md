@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-08-13T21:36:59.998Z'
+datePublished: '2016-08-13T21:40:26.367Z'
 sourcePath: _posts/2016-05-28-core-process-psychotherapy.md
 inFeed: true
 authors: []
@@ -7,10 +7,10 @@ hasPage: false
 keywords: []
 author: []
 via: {}
-dateModified: '2016-08-13T21:36:59.081Z'
+dateModified: '2016-08-13T21:40:25.550Z'
 title: >-
   …enhance awareness and presence in relationship …reclaim the unlived parts of
-  yourself  …learn how to transform emotional pain
+  yourself  …and transform emotional pain
 publisher: {}
 description: ''
 inLanguage: null
@@ -23,4 +23,4 @@ _type: Blurb
 
 ### ...enhance awareness and presence in relationship  
 ...reclaim the unlived parts of yourself   
-...learn how to transform emotional pain
+...and transform emotional pain
