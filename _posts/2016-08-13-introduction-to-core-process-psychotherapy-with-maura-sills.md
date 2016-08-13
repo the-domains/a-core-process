@@ -1,18 +1,18 @@
 ---
-datePublished: '2016-08-13T21:27:18.971Z'
+datePublished: '2016-08-13T21:31:37.591Z'
 sourcePath: >-
   _posts/2016-08-13-introduction-to-core-process-psychotherapy-with-maura-sills.md
 inFeed: true
 hasPage: true
 author: []
 via: {}
-dateModified: '2016-08-13T21:27:18.228Z'
+dateModified: '2016-08-13T21:31:36.776Z'
 title: Mindfulness in Relationship  an Introduction to Core Process Psychotherapy
 publisher: {}
 description: >-
-  A two-day workshop with Maura Sills the founder of Core Process Psychotherapy
-  24 & 25 September 2016 in Glasgow Mindfulness has the potential to transform
-  how we experience ourselves, others and the world. Grounded in the belief that
+  A two-day workshop with Maura Sills  founder of Core Process Psychotherapy 24
+  & 25 September 2016 in Glasgow Mindfulness has the potential to transform how
+  we experience ourselves, others and the world. Grounded in the belief that
   awareness is inherently healing, the workshop explores how cultivating
   awareness, compassion, presence and spaciousness can help us move beyond
   wounded perceptions and emotional habits, and deepen our capacity for
@@ -26,7 +26,7 @@ _type: Article
 an Introduction to Core Process Psychotherapy
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/69704af3-2b72-4640-946d-d5758360aa0c.jpg)
 
-**A two-day workshop **_**with Maura Sills **the****founder of Core Process Psychotherapy_  
+**A two-day workshop **_**with Maura Sills ** founder of Core Process Psychotherapy_  
 **24 & 25 September 2016** in Glasgow  
 Mindfulness has the potential to transform how we experience ourselves, others and the world. Grounded in the belief that awareness is inherently healing, the workshop explores how cultivating awareness, compassion, presence and spaciousness can help us move beyond wounded perceptions and emotional habits, and deepen our capacity for relationship.
 
