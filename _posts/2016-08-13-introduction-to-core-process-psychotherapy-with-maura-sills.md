@@ -1,12 +1,12 @@
 ---
-datePublished: '2016-08-13T21:39:30.143Z'
+datePublished: '2016-08-13T21:45:09.494Z'
 sourcePath: >-
   _posts/2016-08-13-introduction-to-core-process-psychotherapy-with-maura-sills.md
 inFeed: true
 hasPage: true
 author: []
 via: {}
-dateModified: '2016-08-13T21:39:29.170Z'
+dateModified: '2016-08-13T21:45:08.627Z'
 title: ''
 publisher: {}
 description: >-
@@ -22,7 +22,7 @@ url: introduction-to-core-process-psychotherapy-with-maura-sills/index.html
 _type: Article
 
 ---
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/69704af3-2b72-4640-946d-d5758360aa0c.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/6ddacadf-e7be-4638-ad1d-079c798afb96.jpg)
 
 **A two-day workshop **_**with Maura Sills** founder of Core Process Psychotherapy and the Karuna Institute _  
 **24 & 25 September 2016** in Glasgow  
