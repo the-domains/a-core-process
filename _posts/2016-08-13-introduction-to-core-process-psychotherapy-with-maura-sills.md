@@ -1,10 +1,12 @@
 ---
-datePublished: '2016-08-13T21:17:48.662Z'
+datePublished: '2016-08-13T21:18:22.216Z'
+sourcePath: >-
+  _posts/2016-08-13-introduction-to-core-process-psychotherapy-with-maura-sills.md
 inFeed: true
 hasPage: true
 author: []
 via: {}
-dateModified: '2016-08-13T21:17:39.990Z'
+dateModified: '2016-08-13T21:18:21.266Z'
 title: ''
 publisher: {}
 description: >-
@@ -14,8 +16,6 @@ description: >-
   Hospital London. She has taught at Stanford University and is an Honorary
   Fellow of the UK Council of Psychotherapists.
 starred: false
-sourcePath: >-
-  _posts/2016-08-13-introduction-to-core-process-psychotherapy-with-maura-sills.md
 url: introduction-to-core-process-psychotherapy-with-maura-sills/index.html
 _type: Article
 
