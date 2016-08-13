@@ -1,16 +1,16 @@
 ---
-datePublished: '2016-08-13T21:25:12.903Z'
+datePublished: '2016-08-13T21:25:59.628Z'
 sourcePath: >-
   _posts/2016-08-13-introduction-to-core-process-psychotherapy-with-maura-sills.md
 inFeed: true
 hasPage: true
 author: []
 via: {}
-dateModified: '2016-08-13T21:25:12.143Z'
-title: 'Mindfulness in Relationship Introduction to Core Process Psychotherapy '
+dateModified: '2016-08-13T21:25:58.833Z'
+title: Mindfulness in Relationship  an Introduction to Core Process Psychotherapy
 publisher: {}
 description: >-
-  A two-day workshop with Maura Sills founder of Core Process Psychotherapy 24 &
+  A two-day workshop with Maura Sillsfounder of Core Process Psychotherapy 24 &
   25 September 2016 in Glasgow Mindfulness has the potential to transform how we
   experience ourselves, others and the world. Grounded in the belief that
   awareness is inherently healing, the workshop explores how cultivating
@@ -22,10 +22,11 @@ url: introduction-to-core-process-psychotherapy-with-maura-sills/index.html
 _type: Article
 
 ---
-### **Mindfulness in Relationship**  
-Introduction to Core Process Psychotherapy ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/69704af3-2b72-4640-946d-d5758360aa0c.jpg)
+### **Mindfulness in Relationship **  
+an Introduction to Core Process Psychotherapy
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/69704af3-2b72-4640-946d-d5758360aa0c.jpg)
 
-**A two-day workshop **_**with Maura Sills**__founder of Core Process Psychotherapy_  
+**A two-day workshop **_**with Maura Sills**founder of Core Process Psychotherapy_  
 **24 & 25 September 2016** in Glasgow  
 Mindfulness has the potential to transform how we experience ourselves, others and the world. Grounded in the belief that awareness is inherently healing, the workshop explores how cultivating awareness, compassion, presence and spaciousness can help us move beyond wounded perceptions and emotional habits, and deepen our capacity for relationship.
 
@@ -35,7 +36,7 @@ This 2-day workshop offers a 'taste' of Core Process Psychotherapy, which is roo
 The workshop is open to anyone who wants to deepen their understanding of how mindfulness in relationship can be drawn on as a profound basis for enquiry within personal relationships, and how it can be applied in counselling, psychotherapy and other helping roles within the workplace or community life. It may also be useful for anyone considering applying for one of our professional trainings.
 
 **Tutor: Maura Sills, Founder and Director the Karuna Institute**  
-**Dates : ****24 and 25 September 2016**  
+**Dates : 24 and 25 September 2016**  
 **Cost: £120.00 **(non-refundable & non-transferable)   
 **Venue: Kagyu Samye Dzong, 7 Ashley Street, Glasgow**
 
