@@ -1,22 +1,22 @@
 ---
-datePublished: '2016-08-13T21:31:37.591Z'
+datePublished: '2016-08-13T21:33:40.502Z'
 sourcePath: >-
   _posts/2016-08-13-introduction-to-core-process-psychotherapy-with-maura-sills.md
 inFeed: true
 hasPage: true
 author: []
 via: {}
-dateModified: '2016-08-13T21:31:36.776Z'
+dateModified: '2016-08-13T21:33:39.462Z'
 title: Mindfulness in Relationship  an Introduction to Core Process Psychotherapy
 publisher: {}
 description: >-
-  A two-day workshop with Maura Sills  founder of Core Process Psychotherapy 24
-  & 25 September 2016 in Glasgow Mindfulness has the potential to transform how
-  we experience ourselves, others and the world. Grounded in the belief that
-  awareness is inherently healing, the workshop explores how cultivating
-  awareness, compassion, presence and spaciousness can help us move beyond
-  wounded perceptions and emotional habits, and deepen our capacity for
-  relationship.
+  A two-day workshop with Maura Sills founder of Core Process Psychotherapy and
+  the Karuna Institute 24 & 25 September 2016 in Glasgow Mindfulness has the
+  potential to transform how we experience ourselves, others and the world.
+  Grounded in the belief that awareness is inherently healing, the workshop
+  explores how cultivating awareness, compassion, presence and spaciousness can
+  help us move beyond wounded perceptions and emotional habits, and deepen our
+  capacity for relationship.
 starred: false
 url: introduction-to-core-process-psychotherapy-with-maura-sills/index.html
 _type: Article
@@ -26,7 +26,7 @@ _type: Article
 an Introduction to Core Process Psychotherapy
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/69704af3-2b72-4640-946d-d5758360aa0c.jpg)
 
-**A two-day workshop **_**with Maura Sills ** founder of Core Process Psychotherapy_  
+**A two-day workshop **_**with Maura Sills** founder of Core Process Psychotherapy and the Karuna Institute_  
 **24 & 25 September 2016** in Glasgow  
 Mindfulness has the potential to transform how we experience ourselves, others and the world. Grounded in the belief that awareness is inherently healing, the workshop explores how cultivating awareness, compassion, presence and spaciousness can help us move beyond wounded perceptions and emotional habits, and deepen our capacity for relationship.
 
@@ -44,8 +44,10 @@ Maura Sills was a nun in the Theravadan Buddhist tradition and a District Head O
 
 _**Information & Bookings**_  
 **Jacqui Aplin **Tel +44 (0)1647 221457   
-email: [office@karuna-institute.co.uk][0]
+email: [office@karuna-institute.co.uk][0]  
+More about Core Process Psychotherapy and the [Karuna Institute][1] workshops and courses
 
  
 
 [0]: mailto:office@karuna-institute.co.uk
+[1]: http://www.karuna-institute.co.uk/ "Karuna Institute"
