@@ -1,11 +1,11 @@
 ---
-datePublished: '2016-08-15T14:51:31.337Z'
+datePublished: '2016-08-15T14:52:22.163Z'
 sourcePath: >-
   _posts/2016-08-15-diploma-in-relational-mindfulness-17-21-april-and-12-16-june-2.md
 inFeed: true
 author: []
 via: {}
-dateModified: '2016-08-15T14:51:30.377Z'
+dateModified: '2016-08-15T14:52:21.561Z'
 title: ''
 publisher: {}
 description: >-
@@ -15,7 +15,7 @@ starred: false
 _type: Blurb
 
 ---
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/13777310-1124-4c96-81aa-756b3332660b.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/09645303-c08e-44ec-9b8d-d7d4823da17b.jpg)
 
 **Diploma in Relational Mindfulness**  
 17-21 April & 12-16 June 2017 in Edinburgh  
