@@ -1,16 +1,16 @@
 ---
-datePublished: '2016-08-22T21:13:13.235Z'
+datePublished: '2016-08-22T21:16:40.447Z'
 sourcePath: >-
   _posts/2016-08-13-introduction-to-core-process-psychotherapy-with-maura-sills.md
 inFeed: true
 hasPage: true
 author: []
 via: {}
-dateModified: '2016-08-22T21:13:12.738Z'
+dateModified: '2016-08-22T21:16:39.727Z'
 title: Mindfulness in Relationship
 publisher: {}
 description: >-
-  A two-day workshop with Maura Sills  founder of Core Process Psychotherapy and
+  A two-day workshop with Maura Sills founder of Core Process Psychotherapy and
   the Karuna Institute  24 & 25 September 2016 in Glasgow Mindfulness has the
   potential to transform how we experience ourselves, others and the world.
   Grounded in the belief that awareness is inherently healing, the workshop
@@ -30,9 +30,9 @@ _founder of Core Process Psychotherapy and the Karuna Institute _
 **24 & 25 September 2016** in Glasgow  
 Mindfulness has the potential to transform how we experience ourselves, others and the world. Grounded in the belief that awareness is inherently healing, the workshop explores how cultivating awareness, compassion, presence and spaciousness can help us move beyond wounded perceptions and emotional habits, and deepen our capacity for relationship.
 
-**Mindfulness in Relationship **  
-a two-day non-residential workshop  
-This workshop is open to anyone who wants to deepen their understanding of how mindfulness in relationship can be drawn on as a profound basis for enquiry within personal relationships, and how it can be applied in counselling, psychotherapy and other helping roles within the workplace or community life.   
+**Mindfulness in Relationship**  
+This workshop is open to anyone who wants to deepen their understanding of how mindfulness in relationship can be drawn on as a profound basis for enquiry within personal relationships, and how it can be applied in counselling, psychotherapy and other helping roles within the workplace or community life. 
+
 **What is Core Process Psychotherapy?**  
 This 2-day workshop offers a 'taste' of Core Process Psychotherapy, which is rooted in a Buddhist understanding of mind and embodied sensitivity integrated with the relational understanding of Western psychotherapy. The workshop will include talks, experiential exercises and enquiry. No affiliation to Buddhism is required.
 
