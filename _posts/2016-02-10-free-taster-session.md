@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-08-13T21:27:51.667Z'
+datePublished: '2016-08-24T23:34:33.247Z'
 sourcePath: _posts/2016-02-10-free-taster-session.md
 inFeed: false
 authors: []
@@ -9,13 +9,13 @@ author:
   - name: ''
     url: ''
 via: {}
-dateModified: '2016-08-13T21:27:51.181Z'
+dateModified: '2016-08-24T23:34:32.638Z'
 title: ''
 publisher: {}
 description: >-
-  Discover the Power of Mindfulness  FREE Taster Session Thursday 8 September
-  7.00 to 9.00pm  8-week Course* starts Thursday 15 September  The Meeting
-  House, Kelso Facilitator: Patricia Price
+  Discover the Power of Mindfulness FREE Taster Session Thursday 8 September
+  7.00 to 9.00pm 8-week Course* starts Thursday 15 September The Meeting House,
+  KelsoFacilitator: Patricia Price
 inLanguage: null
 inNav: true
 starred: false
