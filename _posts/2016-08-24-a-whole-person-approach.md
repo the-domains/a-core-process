@@ -1,16 +1,16 @@
 ---
-datePublished: '2016-08-24T23:23:31.242Z'
+datePublished: '2016-08-24T23:25:30.989Z'
+sourcePath: _posts/2016-08-24-a-whole-person-approach.md
 inFeed: true
 author: []
 via: {}
-dateModified: '2016-08-24T23:23:23.984Z'
+dateModified: '2016-08-24T23:25:30.265Z'
 title: A whole person approach
 publisher: {}
 description: >-
   …Psychotherapy for individuals …Supervision for Psychotherapists & Counsellors
   …Courses & Training
 starred: false
-sourcePath: _posts/2016-08-24-a-whole-person-approach.md
 _type: Blurb
 
 ---
