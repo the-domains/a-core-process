@@ -1,4 +1,3 @@
-layout_spectrum: 0.5958758860360831
 typography_spectrum: 0.379510089289397
 color:
   brandColors:
@@ -15,6 +14,7 @@ opengraph:
   image: null
   type: null
   appId: null
+layout_spectrum: 0.5958758860360831
 analytics:
   google: null
   facebook: null
@@ -25,9 +25,6 @@ cta:
   bucket: null
   version: null
 navigation:
-  - name: Appointments
-    id: 3ada9445-7f84-4f88-a441-fd293120bc09
-    type: content
   - name: Training
     id: 8df314b3-ada0-48d8-9096-89b5bdb5fad6
     type: content
