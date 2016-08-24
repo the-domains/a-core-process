@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-08-24T23:33:53.572Z'
+datePublished: '2016-08-24T23:43:38.414Z'
 sourcePath: _posts/2016-05-28-about-core-process.md
 inFeed: false
 authors: []
@@ -7,8 +7,8 @@ hasPage: true
 keywords: []
 author: []
 via: {}
-dateModified: '2016-08-24T23:33:52.930Z'
-title: ''
+dateModified: '2016-08-24T23:43:37.574Z'
+title: About Core Process Psychotherapy
 publisher: {}
 description: >-
   Mindfulness-based Core Process Psychotherapy is a psychodynamic approach to
@@ -20,6 +20,8 @@ url: about-core-process/index.html
 _type: WebPage
 
 ---
+### About Core Process Psychotherapy
+
 Mindfulness-based Core Process Psychotherapy is a psychodynamic approach to psychotherapy.
 
 It is a non invasive approach yet the Core Process Psychotherapist works at depth to help uncover what lies beneath current problems.
