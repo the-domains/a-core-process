@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-08-07T22:18:44.262Z'
+datePublished: '2016-08-24T23:33:53.572Z'
 sourcePath: _posts/2016-05-28-about-core-process.md
 inFeed: false
 authors: []
@@ -7,7 +7,7 @@ hasPage: true
 keywords: []
 author: []
 via: {}
-dateModified: '2016-08-07T22:18:43.662Z'
+dateModified: '2016-08-24T23:33:52.930Z'
 title: ''
 publisher: {}
 description: >-
