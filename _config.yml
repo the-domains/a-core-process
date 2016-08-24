@@ -1,4 +1,3 @@
-layout_spectrum: 0.3567618876695633
 typography_spectrum: 0.3657793046440929
 color:
   brandColors:
@@ -15,6 +14,7 @@ opengraph:
   image: null
   type: null
   appId: null
+layout_spectrum: 0.3567618876695633
 analytics:
   google: null
   facebook: null
@@ -24,6 +24,10 @@ cta:
   domain: null
   bucket: null
   version: null
+navigation:
+  - name: Appointments
+    id: 3ada9445-7f84-4f88-a441-fd293120bc09
+    type: content
 favicon: null
 title: Core Process Psychotherapy
 description: a whole person approach
