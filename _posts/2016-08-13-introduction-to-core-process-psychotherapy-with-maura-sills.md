@@ -1,21 +1,15 @@
 ---
-datePublished: '2016-08-22T21:55:40.278Z'
+datePublished: '2016-08-24T23:31:29.973Z'
 sourcePath: >-
   _posts/2016-08-13-introduction-to-core-process-psychotherapy-with-maura-sills.md
 inFeed: true
 hasPage: true
 author: []
 via: {}
-dateModified: '2016-08-22T21:55:39.614Z'
+dateModified: '2016-08-24T23:31:29.524Z'
 title: Mindfulness in Relationship
 publisher: {}
-description: >-
-  A two-day workshop  with Maura Sills 24 & 25 September 2016 in Glasgow
-  Mindfulness has the potential to transform how we experience ourselves, others
-  and the world. Grounded in the belief that awareness is inherently healing,
-  the workshop explores how cultivating awareness, compassion, presence and
-  spaciousness can help us move beyond wounded perceptions and emotional habits,
-  and deepen our capacity for relationship.
+description: A two-day workshop  with Maura Sills 24 & 25 September 2016 in Glasgow
 starred: false
 url: introduction-to-core-process-psychotherapy-with-maura-sills/index.html
 _type: Article
@@ -26,10 +20,11 @@ _type: Article
 
 **A two-day workshop **  
 _**with Maura Sills**_  
-**24 & 25 September 2016** in Glasgow  
-Mindfulness has the potential to transform how we experience ourselves, others and the world. Grounded in the belief that awareness is inherently healing, the workshop explores how cultivating awareness, compassion, presence and spaciousness can help us move beyond wounded perceptions and emotional habits, and deepen our capacity for relationship.
+**24 & 25 September 2016** in Glasgow
 
 **Mindfulness in Relationship**  
+Mindfulness has the potential to transform how we experience ourselves, others and the world. Grounded in the belief that awareness is inherently healing, the workshop explores how cultivating awareness, compassion, presence and spaciousness can help us move beyond wounded perceptions and emotional habits, and deepen our capacity for relationship. 
+
 This workshop is open to anyone who wants to deepen their understanding of how mindfulness in relationship can be drawn on as a profound basis for enquiry within personal relationships, and how it can be applied in counselling, psychotherapy and other helping roles within the workplace or community life.
 
 **What is Core Process Psychotherapy?**  
