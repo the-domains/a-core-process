@@ -37,6 +37,9 @@ navigation:
   - name: Courses
     id: 0e0a02b7-d1ec-426b-8b24-73fa385e3a78
     type: content
+  - name: In crisis?
+    id: 36271eec-6bc7-4c96-a0df-54587e110544
+    type: content
 favicon: null
 title: Core Process Psychotherapy
 description: a whole person approach
