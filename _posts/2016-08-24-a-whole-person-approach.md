@@ -1,12 +1,12 @@
 ---
-datePublished: '2016-08-25T00:11:04.360Z'
+datePublished: '2016-08-25T00:23:01.565Z'
 sourcePath: _posts/2016-08-24-a-whole-person-approach.md
 inFeed: true
 hasPage: true
 author: []
 via: {}
-dateModified: '2016-08-25T00:11:03.764Z'
-title: …Psychotherapy …Supervision …Mindfulness Courses
+dateModified: '2016-08-25T00:23:01.085Z'
+title: …Psychotherapy…Supervision…Mindfulness Courses
 publisher: {}
 description: ''
 starred: false
