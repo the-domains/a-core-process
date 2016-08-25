@@ -1,33 +1,27 @@
 ---
-datePublished: '2016-08-25T00:08:08.789Z'
+datePublished: '2016-08-25T00:11:04.360Z'
 sourcePath: _posts/2016-08-24-a-whole-person-approach.md
 inFeed: true
 hasPage: true
 author: []
 via: {}
-dateModified: '2016-08-25T00:08:08.298Z'
-title: A whole person approach
+dateModified: '2016-08-25T00:11:03.764Z'
+title: …Psychotherapy …Supervision …Mindfulness Courses
 publisher: {}
-description: …Psychotherapy …Supervision …Courses
+description: ''
 starred: false
 url: a-whole-person-approach/index.html
 _type: Article
 
 ---
-### A whole person approach
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/cb32555d-2ac5-4f91-be6c-1817728ad452.jpg)
-
-...Psychotherapy  
+### ...Psychotherapy  
 ...Supervision  
-...Courses
-
-...Psychotherapy for individuals  
-...Supervision for Psychotherapists & Counsellors  
-...Courses & Training
+...Mindfulness Courses
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/cb32555d-2ac5-4f91-be6c-1817728ad452.jpg)
 
 Appointments in the city of Edinburgh and the Scottish Borders
 
-Patricia completed the MA in Mindfulness-based Core Process Psychotherapy with the Karuna Institute in 2000 and is UKCP registered Psychotherapist. 
+Patricia completed the MA in Mindfulness-based Core Process Psychotherapy with the Karuna Institute in 2000 and is UKCP registered Psychotherapist.
 
 She has been in practice since 1998 and worked in the NHS as a Primary Care Counsellor for a short time before becoming an independent practitioner.
 
