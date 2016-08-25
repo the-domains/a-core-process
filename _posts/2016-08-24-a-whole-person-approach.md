@@ -1,26 +1,25 @@
 ---
-datePublished: '2016-08-25T00:00:05.787Z'
+datePublished: '2016-08-25T00:08:08.789Z'
 sourcePath: _posts/2016-08-24-a-whole-person-approach.md
 inFeed: true
+hasPage: true
 author: []
 via: {}
-dateModified: '2016-08-25T00:00:05.150Z'
+dateModified: '2016-08-25T00:08:08.298Z'
 title: A whole person approach
 publisher: {}
-description: >-
-  …Psychotherapy for individuals …Supervision for Psychotherapists & Counsellors
-  …Courses & Training
+description: …Psychotherapy …Supervision …Courses
 starred: false
-_type: Blurb
+url: a-whole-person-approach/index.html
+_type: Article
 
 ---
+### A whole person approach
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/cb32555d-2ac5-4f91-be6c-1817728ad452.jpg)
 
-### A whole person approach
-
-...Psychotherapy for individuals  
-...Supervision for Psychotherapists & Counsellors  
-...Courses & Training
+...Psychotherapy  
+...Supervision  
+...Courses
 
 ...Psychotherapy for individuals  
 ...Supervision for Psychotherapists & Counsellors  
@@ -28,11 +27,13 @@ _type: Blurb
 
 Appointments in the city of Edinburgh and the Scottish Borders
 
-Patricia completed the MA in Mindfulness-based Psychotherapy with the Karuna Institute in 2000 and is UKCP registered Psychotherapist. She has been in practice since 1998 and worked in the NHS as a Primary Care Counsellor for a time before becoming an independent practitioner.
+Patricia completed the MA in Mindfulness-based Core Process Psychotherapy with the Karuna Institute in 2000 and is UKCP registered Psychotherapist. 
 
-She expanded her practice to include facilitating Mindfulness Courses for groups, training with Mindfulness Scotland, the Mindfulness Association, University of Aberdeen and Bangor University in Wales.
+She has been in practice since 1998 and worked in the NHS as a Primary Care Counsellor for a short time before becoming an independent practitioner.
 
-Her work as a psychotherapist and Mindfulness Facilitator is supported by a life-long interest and practice of mindfulness meditation.
+Patricia is also a trained Mindfulness Facilitator and offers Mindfulness Courses including Taster Sessions, 8-week courses and Retreats in the Mindfulness-based Stress Reduction course (MBSR) and the Mindfulness-based Living Course ( MBLC). She has attended teacher training with the Mindfulness Association, University of Aberdeen and Bangor University Centre for Mindfulness Research & Practice.
+
+Her work as a psychotherapist and Mindfulness Facilitator is supported by a life-long study, practice and interest in mindfulness meditation.
 
 **[mail@acoreprocess.net][0]**  
 T**01573 225372**  
