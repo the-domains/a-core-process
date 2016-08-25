@@ -1,12 +1,12 @@
 ---
-datePublished: '2016-08-25T00:32:26.153Z'
+datePublished: '2016-08-25T00:34:55.353Z'
 sourcePath: _posts/2016-08-24-a-whole-person-approach.md
 inFeed: true
 hasPage: true
 author: []
 via: {}
-dateModified: '2016-08-25T00:32:25.521Z'
-title: …Psychotherapy …Supervision …Mindfulness Courses
+dateModified: '2016-08-25T00:34:54.862Z'
+title: …Psychotherapy …Supervision …Mindfulness
 publisher: {}
 description: ''
 starred: false
@@ -14,9 +14,9 @@ url: a-whole-person-approach/index.html
 _type: Article
 
 ---
-## ...Psychotherapy  
+### ...Psychotherapy  
 ...Supervision  
-...Mindfulness Courses
+...Mindfulness
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/cb32555d-2ac5-4f91-be6c-1817728ad452.jpg)
 
 Appointments in the city of Edinburgh and the Scottish Borders
