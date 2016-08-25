@@ -28,11 +28,11 @@ navigation:
   - name: Who is psychotherapy for?
     id: 1dee3722-5e6c-4f70-8b74-76266d2c62d4
     type: content
-  - name: Appointments
-    id: 3ada9445-7f84-4f88-a441-fd293120bc09
-    type: content
   - name: About Core Process
     id: 26ac9968-2783-4b91-873c-03ec3f3bec3a
+    type: content
+  - name: Appointments
+    id: 3ada9445-7f84-4f88-a441-fd293120bc09
     type: content
   - name: Courses
     id: 0e0a02b7-d1ec-426b-8b24-73fa385e3a78
