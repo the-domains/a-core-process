@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-08-25T23:16:41.989Z'
+datePublished: '2016-08-26T12:28:08.753Z'
 sourcePath: _posts/2016-05-28-about-core-process.md
 inFeed: false
 authors: []
@@ -7,12 +7,12 @@ hasPage: true
 keywords: []
 author: []
 via: {}
-dateModified: '2016-08-25T23:16:41.212Z'
-title: About Core Process Psychotherapy
+dateModified: '2016-08-26T12:28:07.932Z'
+title: What is Core Process Psychotherapy?
 publisher: {}
 description: >-
-  Mindfulness-based Core Process Psychotherapy is a psychodynamic approach to
-  psychotherapy.
+  Core Process Psychotherapy was established around 25 years ago in Devon,
+  England at the Karuna Institute by its founder and director, Maura Sills.  
 inLanguage: null
 inNav: true
 starred: false
@@ -20,13 +20,15 @@ url: about-core-process/index.html
 _type: WebPage
 
 ---
-### About Core Process Psychotherapy
+### What is Core Process Psychotherapy?
 
-Mindfulness-based Core Process Psychotherapy is a psychodynamic approach to psychotherapy.
+Core Process Psychotherapy was established around 25 years ago in Devon, England at the Karuna Institute by its founder and director, Maura Sills. 
 
-It is a non invasive approach yet the Core Process Psychotherapist works at depth to help uncover what lies beneath current problems.
+As one of the original mindfulness-based psychotherapies it recognises Western psychological theories and the science and art of Mindfulness.
 
-Core Process is based on the premise that the 'core' or blueprint of our being is always in a state of complete health.
+Core Process Psychotherapists are trained in a particular way to cultivate awareness of presence at depth. This generates a non-invasive, open, compassionate and safe space space in which the client can bring their deepest fears, wants and needs.
+
+Core Process Psychotherapy is based on the premise that the 'core' or blueprint of our being is always in a state of complete health.
 
 This is an aspect of 'self' which is constant, pre-existing and complete. It is the 'hidden treasure' of our being which can only be realised through the act of conscious awareness.
 
