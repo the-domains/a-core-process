@@ -1,11 +1,11 @@
 ---
-datePublished: '2016-08-25T23:28:00.733Z'
+datePublished: '2016-08-25T23:29:55.465Z'
 sourcePath: _posts/2016-08-24-a-whole-person-approach.md
 inFeed: true
 hasPage: true
 author: []
 via: {}
-dateModified: '2016-08-25T23:28:00.152Z'
+dateModified: '2016-08-25T23:29:54.904Z'
 title: Psychotherapy Supervision Mindfulness
 publisher: {}
 description: ''
@@ -14,14 +14,10 @@ url: a-whole-person-approach/index.html
 _type: Article
 
 ---
-## Psychotherapy  
+# Psychotherapy  
 Supervision  
 Mindfulness
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/cb32555d-2ac5-4f91-be6c-1817728ad452.jpg)
-
-### ... Reclaim the unlived parts of yourself  
-... Change the way you relate to stress   
-... Cultivate compassion for self, others and the world 
 
 Appointments in the city of Edinburgh and the Scottish Borders
 
