@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-08-24T23:43:38.414Z'
+datePublished: '2016-08-25T23:16:41.989Z'
 sourcePath: _posts/2016-05-28-about-core-process.md
 inFeed: false
 authors: []
@@ -7,7 +7,7 @@ hasPage: true
 keywords: []
 author: []
 via: {}
-dateModified: '2016-08-24T23:43:37.574Z'
+dateModified: '2016-08-25T23:16:41.212Z'
 title: About Core Process Psychotherapy
 publisher: {}
 description: >-
@@ -30,7 +30,7 @@ Core Process is based on the premise that the 'core' or blueprint of our being i
 
 This is an aspect of 'self' which is constant, pre-existing and complete. It is the 'hidden treasure' of our being which can only be realised through the act of conscious awareness.
 
-The Core Process Psychotherapist is trained to support depth awareness and presence in relationship. Therapist and client work together to reveal and identify the unhealthy patterns of past conditioning.
+The Core Process Psychotherapist is trained to support depth awareness and presence in relationship. And therapist and client work together to reveal and identify patterns of past conditioning.
 
 The Core Process Psychotherapist cultivates a relationship founded on compassion, clarity and spaciousness and works in a particular way with what awaits recognition,
 
