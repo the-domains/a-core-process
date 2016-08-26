@@ -1,17 +1,17 @@
 ---
-datePublished: '2016-08-25T23:48:44.503Z'
+datePublished: '2016-08-25T23:50:32.597Z'
 sourcePath: >-
   _posts/2016-08-15-diploma-in-relational-mindfulness-17-21-april-and-12-16-june-2.md
 inFeed: true
 hasPage: true
 author: []
 via: {}
-dateModified: '2016-08-25T23:48:43.863Z'
+dateModified: '2016-08-25T23:50:31.941Z'
 title: Diploma in Relational Mindfulness
 publisher: {}
 description: >-
-  Spring 2017 Edinburgh 17-21 April & 12-16 June Founder & Director of the
-  Karuna Institute
+  Spring 2017 Edinburgh 17-21 April & 12-16 June with Maura Sills Founder &
+  Director of the Karuna Institute
 starred: false
 url: diploma-in-relational-mindfulness/index.html
 _type: Article
@@ -22,6 +22,7 @@ _type: Article
 
 Spring 2017 Edinburgh  
 17-21 April & 12-16 June  
+with Maura Sills  
 Founder & Director of the Karuna Institute
 
 This two-part Diploma course is intended to give a preliminary grounding in the basic theory and practice of mindfulness in psychotherapeutic practice.
