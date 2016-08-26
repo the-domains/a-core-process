@@ -1,4 +1,3 @@
-layout_spectrum: 0.09304791712202132
 typography_spectrum: 0.40125118498690426
 color:
   brandColors:
@@ -15,6 +14,7 @@ opengraph:
   image: null
   type: null
   appId: null
+layout_spectrum: 0.09304791712202132
 analytics:
   google: null
   facebook: null
@@ -42,5 +42,5 @@ navigation:
     type: content
 favicon: null
 title: ''
-description: Core Process Psychotherapy
+description: ''
 purpose: []
