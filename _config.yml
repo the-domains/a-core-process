@@ -31,11 +31,11 @@ navigation:
   - name: Who is psychotherapy for?
     id: 1dee3722-5e6c-4f70-8b74-76266d2c62d4
     type: content
-  - name: Contact
-    id: c2626c16-239f-44b4-9f12-9ef6c98a8dd0
-    type: content
   - name: Courses & Events
     id: 0e0a02b7-d1ec-426b-8b24-73fa385e3a78
+    type: content
+  - name: Contact
+    id: c2626c16-239f-44b4-9f12-9ef6c98a8dd0
     type: content
   - name: In crisis?
     id: 36271eec-6bc7-4c96-a0df-54587e110544
