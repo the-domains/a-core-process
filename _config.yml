@@ -1,4 +1,3 @@
-layout_spectrum: 0.9779757047072053
 typography_spectrum: 0.9749641488306224
 color:
   brandColors:
@@ -15,6 +14,7 @@ opengraph:
   image: null
   type: null
   appId: null
+layout_spectrum: 0.9779757047072053
 analytics:
   google: null
   facebook: null
@@ -25,11 +25,11 @@ cta:
   bucket: null
   version: null
 navigation:
-  - name: Who is psychotherapy for?
-    id: 1dee3722-5e6c-4f70-8b74-76266d2c62d4
-    type: content
   - name: About Core Process
     id: 26ac9968-2783-4b91-873c-03ec3f3bec3a
+    type: content
+  - name: Who is psychotherapy for?
+    id: 1dee3722-5e6c-4f70-8b74-76266d2c62d4
     type: content
   - name: Contact
     id: c2626c16-239f-44b4-9f12-9ef6c98a8dd0
