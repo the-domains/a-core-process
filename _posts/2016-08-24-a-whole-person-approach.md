@@ -1,12 +1,12 @@
 ---
-datePublished: '2016-08-26T11:50:31.285Z'
+datePublished: '2016-09-02T18:53:12.296Z'
 sourcePath: _posts/2016-08-24-a-whole-person-approach.md
 inFeed: true
 hasPage: true
 author: []
 via: {}
-dateModified: '2016-08-26T11:50:30.493Z'
-title: 'Psychotherapy, Mindfulness and Supervision'
+dateModified: '2016-09-02T18:53:11.672Z'
+title: Psychotherapy Mindfulness and Supervision
 publisher: {}
 description: ''
 starred: true
@@ -14,7 +14,7 @@ url: a-whole-person-approach/index.html
 _type: Article
 
 ---
-# Psychotherapy, Mindfulness and Supervision
+## Psychotherapy Mindfulness and Supervision
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/cb32555d-2ac5-4f91-be6c-1817728ad452.jpg)
 
 Short term and depth psychotherapy  
