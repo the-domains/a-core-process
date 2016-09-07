@@ -1,12 +1,12 @@
 ---
-datePublished: '2016-08-26T12:41:02.731Z'
+datePublished: '2016-09-03T12:50:00.360Z'
 sourcePath: >-
   _posts/2016-08-15-diploma-in-relational-mindfulness-17-21-april-and-12-16-june-2.md
-inFeed: true
+inFeed: false
 hasPage: true
 author: []
 via: {}
-dateModified: '2016-08-26T12:41:02.125Z'
+dateModified: '2016-09-03T12:49:59.902Z'
 title: Diploma in Relational Mindfulness
 publisher: {}
 description: >-
@@ -14,7 +14,7 @@ description: >-
   Director of the Karuna Institute
 starred: false
 url: diploma-in-relational-mindfulness/index.html
-_type: Article
+_type: Blurb
 
 ---
 ## Diploma in Relational Mindfulness
