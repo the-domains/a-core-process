@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-08-25T23:34:59.337Z'
+datePublished: '2016-09-03T10:57:00.988Z'
 sourcePath: _posts/2016-02-10-free-taster-session.md
 inFeed: true
 authors: []
@@ -9,12 +9,12 @@ author:
   - name: ''
     url: ''
 via: {}
-dateModified: '2016-08-25T23:34:58.817Z'
-title: Free Taster Session
+dateModified: '2016-09-03T10:57:00.236Z'
+title: Discover the Power of Mindfulness
 publisher: {}
 description: >-
-  Discover the Power of Mindfulness  Thursday 8 September 7.00 to 9.00pm  The
-  Meeting House, Kelso TD5 7HP
+  FREE Taster Session Thursday 8 September  7.00 to 9.00pm  The Meeting House
+  Kelso TD5 7HP
 inLanguage: null
 inNav: true
 starred: false
@@ -22,11 +22,13 @@ url: borders-courses/index.html
 _type: Article
 
 ---
-## Free Taster Session
+## Discover the Power of Mindfulness
 
-**Discover the Power of Mindfulness **  
-Thursday 8 September 7.00 to 9.00pm   
-The Meeting House, Kelso TD5 7HP
+**FREE Taster Session**  
+Thursday 8 September   
+7.00 to 9.00pm   
+The Meeting House  
+Kelso TD5 7HP
 ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/9309540a716a5db6e71073aca453ed2849be698b.jpg)
 
 **Information & Bookings**  
